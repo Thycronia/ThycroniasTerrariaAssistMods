@@ -1,0 +1,13 @@
+Construction Helper is an auxiliary mod maily designed for mob farm construction. It can also help users to replicate buildings or pixel art.
+
+It works similiar to Minecraft Litematica Mod, while being a lot more elementary and shabby. The mod is not complted yet, and this is the first usable version released.
+
+If the drawing of your game breaks, or your game crashes for unkown reasons, you should disable this mod priorly since it havn'e gone through sufficient test and debug.
+
+Before you can write/load scheme files, you need to enter you scheme folder path in order for the mod to access it. Since in-game modconfig's textbox is not long enough, you could write this string directly to the modconfig json file.
+
+The mod currently only provides methods to create or load scheme json files in-game but not change them. If you want to change them, just create a new one :)
+
+Unless you know what you are doing, please do NOT directly edit the scheme json files in any way, otherwise the game might crash.
+
+If you find a scheme to be not the same as it was when you created it, it is probably because the loaded mods are not the same. It will functions correctly only if you are loading the same mods.

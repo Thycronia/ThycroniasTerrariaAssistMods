@@ -1,0 +1,5 @@
+displayName = Construction Helper
+author = Thycronia
+version = 0.1
+dllReferences = Newtonsoft.Json
+includeSource = true
