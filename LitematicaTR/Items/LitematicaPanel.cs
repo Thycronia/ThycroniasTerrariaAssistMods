@@ -25,8 +25,8 @@ namespace LitematicaTR.Items
 
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Litematica Panel"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
-            Tooltip.SetDefault("Left click to toggle the litematica control panel.\nPut it in hotbar to enable most drawing");
+            DisplayName.SetDefault("Helper Panel"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
+            Tooltip.SetDefault("Left click to toggle the litematica control panel.\n This item cannot become a dropped item in the world.");
         }
 
 		public override void SetDefaults()
