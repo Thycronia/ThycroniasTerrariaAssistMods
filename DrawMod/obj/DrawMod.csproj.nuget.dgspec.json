@@ -1,0 +1,49 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yuyanzuo/Library/Application Support/Terraria/ModLoader/Mod Sources/DrawMod/DrawMod.csproj": {}
+  },
+  "projects": {
+    "/Users/yuyanzuo/Library/Application Support/Terraria/ModLoader/Mod Sources/DrawMod/DrawMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yuyanzuo/Library/Application Support/Terraria/ModLoader/Mod Sources/DrawMod/DrawMod.csproj",
+        "projectName": "DrawMod",
+        "projectPath": "/Users/yuyanzuo/Library/Application Support/Terraria/ModLoader/Mod Sources/DrawMod/DrawMod.csproj",
+        "packagesPath": "/Users/yuyanzuo/.nuget/packages/",
+        "outputPath": "/Users/yuyanzuo/Library/Application Support/Terraria/ModLoader/Mod Sources/DrawMod/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yuyanzuo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
