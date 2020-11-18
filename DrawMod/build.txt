@@ -1,0 +1,5 @@
+displayName = Draw Mod
+author = Rocky
+version = 0.1
+sortAfter = CalamityMod
+dllReferences = CalamityMod
