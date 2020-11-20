@@ -67,7 +67,11 @@ namespace LitematicaTR.Items
             {
                 ControlPanelUI.visible = !ControlPanelUI.visible;
                 if (ControlPanelUI.visible)
-                    ControlPanelUI.setPanelPos(Main.MouseScreen);
+		{
+                    Vector2 screeCenter = new Vector2(Main.screenWidth/2, Main.screenHeight/2);
+                    //Vector2 mouseUIScaled = Main.MouseScreen / Main.UIScale;
+                    ControlPanelUI.setPanelPos((Main.MouseScreen* Main.GameZoomTarget - screeCenter*(Main.GameZoomTarget - 1))/Main.UIScale);
+		}
             }
             return true;
         }
