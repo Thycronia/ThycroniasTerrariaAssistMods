@@ -1,0 +1,5 @@
+displayName = SCal Bullet Hell 5 Practice
+author = Thycronia
+version = 0.1
+includeSource = true
+modReferences = CalamityMod

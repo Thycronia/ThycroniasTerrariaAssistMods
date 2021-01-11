@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RDHcrVz57A9GFalczerTTXKnyZ9I5kNg48dShvinRQzvAvk6/9oeHxJ7mOY1y0/9CuNasSPpa1FvM5WJkvsJvA==",
+  "success": true,
+  "projectFilePath": "/Users/yuyanzuo/Library/Application Support/Terraria/ModLoader/Mod Sources/SCalBHPractice/SCalBHPractice.csproj",
+  "expectedPackageFiles": [
+    "/Users/yuyanzuo/.nuget/packages/tmodloader.codeassist/0.1.1/tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
